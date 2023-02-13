@@ -2004,8 +2004,6 @@ textarea:focus {
 
 }
 
-.footer-about {}
-
 .footer-about h1 {
     font-size: 50px;
     color: white;
@@ -2074,8 +2072,6 @@ textarea:focus {
 .footer-links ul li:hover {
     padding-left: 20px;
 }
-
-.footer-info {}
 
 .footer-info .info-box {
     padding: 10px;
