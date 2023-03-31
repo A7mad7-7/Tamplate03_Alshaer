@@ -1785,7 +1785,7 @@ textarea:focus {
 .stats {
     padding-top: var(--main-sec-padding);
     padding-bottom: var(--main-sec-padding);
-    background-image: url(/img/Stats-img/stats.jpg);
+    background-image: url(../img/Stats-img/stats.jpg);
     background-size: cover;
     position: relative;
 }
@@ -1901,7 +1901,7 @@ textarea:focus {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/img/Discount-img/discount-background1.jpg);
+    background-image: url(../img/Discount-img/discount-background1.jpg);
     animation: change-back 7s linear infinite;
     position: relative;
 }
@@ -1910,11 +1910,11 @@ textarea:focus {
 
     0%,
     100% {
-        background-image: url(/img/Discount-img/discount-background1.jpg);
+        background-image: url(../img/Discount-img/discount-background1.jpg);
     }
 
     50% {
-        background-image: url(/img/Discount-img/discount-background2.jpg);
+        background-image: url(../img/Discount-img/discount-background2.jpg);
     }
 }
 
